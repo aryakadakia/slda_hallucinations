@@ -1,0 +1,26 @@
+# Core
+pandas
+numpy
+scikit-learn
+nltk
+tomotopy>=0.12
+
+# Topic-model comparison arm
+gensim>=4.3
+
+# BERTopic and Top2Vec. These pull in torch and sentence-transformers (~2GB),
+# so keep them in their own environment:
+#
+#     python3 -m venv .venv-topics
+#     .venv-topics/bin/pip install -r python_topic_modeling/requirements.txt
+#     .venv-topics/bin/python -c "import nltk; [nltk.download(p) for p in \
+#       ('punkt','punkt_tab','averaged_perceptron_tagger_eng','wordnet','stopwords')]"
+#
+# Verified on macOS/arm64 with Python 3.13: torch 2.14, bertopic 0.17.4,
+# top2vec 1.0.36, gensim 4.4, tomotopy 0.14. Top2Vec 1.x changed its
+# constructor - embedding_model must be given explicitly or `speed` is ignored
+# (see topic_models.top2vec_topics).
+bertopic>=0.16
+top2vec>=1.0
+sentence-transformers
+torch

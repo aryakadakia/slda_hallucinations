@@ -1,0 +1,24 @@
+# Participant transcripts are never committed to this repository.
+# The data lives outside the repo; point SLDA_DATA_DIR at it.
+*.csv
+!r_slda/results/*.csv
+datasets_final/
+data/
+
+# Notebook outputs carry tokenised transcript text. Strip before committing.
+*.ipynb
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.Rhistory
+Rplots.pdf
+
+# Local virtualenv for the topic-model arm (torch + sentence-transformers).
+.venv-topics/
+
+# Working documents held with the data.
+*.xlsx
+*.docx
+*.zip
+*.bin

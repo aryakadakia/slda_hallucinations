@@ -1,0 +1,9 @@
+"outcome","reference","Estimate","Std..Error","t.value","Pr...t..","term","topic_words"
+"tx.inpatient","topic1",-0.095981357162612,0.052034840003693,-1.84455947507093,0.065243139860197,"(Intercept)",NA
+"tx.inpatient","topic1",0.596260269309627,0.0738731055467194,8.07141198270777,1.16051525438106e-15,"topic2","day, night, morning, sleep, medication"
+"tx.inpatient","topic1",0.274421644702812,0.069676410151796,3.93851583491401,8.46765110693461e-05,"topic3","voices, hear, hearing, voice, real"
+"tx.inpatient","topic1",1.017953236326,0.0850903329373768,11.9632066438755,5.97067521975654e-32,"topic4","god, church, people, life, world"
+"tx.inpatient","topic1",1.17364679584129,0.0787572577871436,14.9020779648434,8.34037707562282e-48,"topic5","child, apartment, watching, 00, basically"
+"tx.inpatient","topic1",0.506716337513121,0.0772786447078848,6.55700341832497,6.89805397868431e-11,"topic6","stuff, house, fucking, guy, started"
+"tx.inpatient","topic1",0.146683864183547,0.0709918726429652,2.06620643635159,0.0389320034033666,"topic7","voices, head, feel, hear, voice"
+"tx.inpatient","topic1",1.29990061636515,0.0739642962584455,17.5747040412991,1.35935759283645e-64,"topic8","mental, people, life, illness, taking"

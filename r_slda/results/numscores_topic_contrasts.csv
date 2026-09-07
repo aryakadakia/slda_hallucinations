@@ -1,0 +1,9 @@
+"outcome","reference","Estimate","Std..Error","t.value","Pr...t..","term","topic_words"
+"numscores","topic3",0.019458054406829,0.295670622807845,0.0658099009703601,0.947590899888002,"(Intercept)",NA
+"numscores","topic3",3.05228015501056,0.453592751485989,6.72912021854662,1.55189929058112e-10,"topic1","people, god, person, kill, nice"
+"numscores","topic3",1.0686902860895,0.439797586947648,2.42995941270755,0.0159288103986331,"topic2","sounds, shit, bye, tv, talking"
+"numscores","topic3",0.938980012215926,0.395968025467982,2.37135311899534,0.0186144091739195,"topic4","day, night, time, started, phone"
+"numscores","topic3",0.447423280130658,0.459193808605596,0.974366970428715,0.330979619294472,"topic5","hearing, hear, time, true, voice"
+"numscores","topic3",1.8447959103792,0.489514064268998,3.76862698140057,0.000212518476914299,"topic6","feel, guess, share, talking, weird"
+"numscores","topic3",0.941780058270023,0.446438589757311,2.109539990219,0.0360656115449704,"topic7","voices, hear, head, people, real"
+"numscores","topic3",1.52920736376607,0.442474260857607,3.45603687952865,0.000661581389909457,"topic8","voices, heard, hearing, pretty, home"

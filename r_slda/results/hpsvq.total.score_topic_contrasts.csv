@@ -1,0 +1,9 @@
+"outcome","reference","Estimate","Std..Error","t.value","Pr...t..","term","topic_words"
+"hpsvq.total.score","topic5",15.6741616259232,0.579724471828117,27.0372606084679,2.64747476358485e-138,"(Intercept)",NA
+"hpsvq.total.score","topic5",15.8688659666975,0.984031566443283,16.1263789779168,3.12579321632004e-55,"topic1","god, church, child, life, devil"
+"hpsvq.total.score","topic5",16.4747146422954,0.913774324153194,18.0293035236712,1.18068126697422e-67,"topic2","mental, illness, life, taking, people"
+"hpsvq.total.score","topic5",14.292705825423,0.943956591456791,15.1412744556032,3.21116146048564e-49,"topic3","stuff, house, started, guy, leave"
+"hpsvq.total.score","topic5",7.63519346895598,0.857682284767487,8.9021233206721,1.16173430178274e-18,"topic4","voices, hear, voice, hearing, head"
+"hpsvq.total.score","topic5",13.4478955596024,1.03967000601266,12.9347730355113,7.16674193879229e-37,"topic6","apartment, talking, money, food, basically"
+"hpsvq.total.score","topic5",3.99565767177512,0.951832898329758,4.19785624008852,2.80751553474462e-05,"topic7","people, talking, feel, fucking, control"
+"hpsvq.total.score","topic5",7.46190765326166,0.939823315059047,7.93969199709931,3.27871768139688e-15,"topic8","morning, night, day, sleep, medication"

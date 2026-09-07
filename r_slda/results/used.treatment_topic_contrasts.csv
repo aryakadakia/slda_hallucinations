@@ -1,0 +1,9 @@
+"outcome","reference","Estimate","Std..Error","t.value","Pr...t..","term","topic_words"
+"used.treatment","topic8",-0.191820174999303,0.0413322327337008,-4.64093426152852,3.68350980886015e-06,"(Intercept)",NA
+"used.treatment","topic8",1.25973612203755,0.0584364195824142,21.5573803295891,3.11944954681465e-93,"topic1","people, feel, talk, fucking, control"
+"used.treatment","topic8",1.30570442114319,0.0592641270367207,22.0319523197255,6.70943473903102e-97,"topic2","mental, people, illness, life, school"
+"used.treatment","topic8",1.11785999922879,0.0530672855220571,21.064955334189,1.76141261582742e-89,"topic3","voices, hear, hearing, voice, loud"
+"used.treatment","topic8",0.856633277873739,0.0616172296983601,13.9024958127343,4.31791562396197e-42,"topic4","stuff, house, started, guy, guys"
+"used.treatment","topic8",1.27382884378062,0.062661216150277,20.328824144199,5.61313165756887e-84,"topic5","apartment, taking, meds, basically, safe"
+"used.treatment","topic8",1.15989544519122,0.0624440669956738,18.5749503675277,2.1057304242638e-71,"topic6","god, church, devil, telling, life"
+"used.treatment","topic8",1.18549261564523,0.0590341484261965,20.0814722876423,3.70931836252453e-82,"topic7","morning, night, day, sleep, pretty"
